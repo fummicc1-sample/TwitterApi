@@ -1,0 +1,2 @@
+class TweetStreamRule:
+    id: int
