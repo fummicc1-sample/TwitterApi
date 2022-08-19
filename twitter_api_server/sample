@@ -1,1 +1,0 @@
-StreamResponse(data=<Tweet id=1558252878229569536 text='@mikuseru_delta バリカタはちょっと茹でてある麺\n麺がコリコリした食感になる\n食感好きやから俺はいっつもバリカタ頼んでるわ'>, includes={}, errors=[], matching_rules=[StreamRule(value=None, tag='', id='1558252878976159744')])
